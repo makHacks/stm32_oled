@@ -1,4 +1,4 @@
-//read the instruction inside readme.md
+//read the instruction inside README.md
 
 #include <SPI.h>
 #include <Wire.h>
