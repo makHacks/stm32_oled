@@ -1,4 +1,9 @@
-//read the instruction inside README.md
+/*
+**First read the 'Instruction' inside README.md**
+connect the following oled display pins to stm32 board 
+gnd to gnd, vdd to 3.3v, sck to B6 & sdk to B7
+Done!!!
+*/ 
 
 #include <SPI.h>
 #include <Wire.h>
