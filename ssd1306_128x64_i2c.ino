@@ -1,8 +1,9 @@
+//read the instruction inside readme.md
 
 #include <SPI.h>
 #include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
+#include <Adafruit_GFX.h>      //https://github.com/adafruit/Adafruit-GFX-Library
+#include <Adafruit_SSD1306.h>  //https://github.com/adafruit/Adafruit_SSD1306
 
 #define OLED_RESET 4
 Adafruit_SSD1306 display(OLED_RESET);
